@@ -20,7 +20,7 @@ This project enhances your understanding of sorting algorithms, stack operations
 
 ## 🔧 Installation & Usage
 
-### 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
 git clone https://github.com/bou1337/push_swap.git
 cd push_swap
