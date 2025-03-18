@@ -20,13 +20,13 @@ This project enhances your understanding of sorting algorithms, stack operations
 
 ## 🔧 Installation & Usage
 
- 1️⃣ Clone the Repository
+## 1️⃣ Clone the Repository
 
 git clone https://github.com/bou1337/push_swap.git
 cd push_swap
-2️⃣ Compile the Program
+## 2️⃣ Compile the Program
 make
-3️⃣ Run Push Swap
+## 3️⃣ Run Push Swap
 ./push_swap "5 2 9 3 1"
 4️⃣ Test with the Checker
 ARG="5 2 9 3 1"; ./push_swap $ARG | ./checker_linux $ARG
